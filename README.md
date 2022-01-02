@@ -12,8 +12,11 @@ Realize [C Elton et al.](https://arxiv.org/pdf/1903.00415.pdf) pipeline using [M
 
 
 ## project 
-<img src="img/IRArch.png" width="35%"/>
-<img src="img/flowchart.jpg" width="35%"/>
+<p align="center">
+  <img alt="IRArch" src="img/IRArch.png" width="35%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="flowchart" src="img/flowchart.jpg" width="35%">
+</p>
 
 ChemDataExtractor is used to identify Chemical Entities validate using PubChemPy and PaDEL-Descriptor software to extract compunds descriptors.  
 
@@ -26,7 +29,7 @@ Moreover, as different approach, elbow method to select optimal out PCA dimensio
 
 Strategy pattern is followed to dynamically change behavior on different load/store strategies and classifiers. 
 
-<img src="img/StrategyPattern2.png " width="35%"/>
+<img src="img/StrategyPattern2.png " width="45%"/>
 
 ## usage
 ```console
@@ -44,7 +47,7 @@ foo@bar:~/project$ python3 sarscov2vec.py
 
 ```
 
-Optionally is possible to comment out lines in [code/mainProject.py](code/mainProject.py) (lines with "delete this to use FS") to disable usage of MongoDB and use file system to store chemical entities and sentences.
+Optionally is possible to remove lines in [code/mainProject.py](code/mainProject.py) (commented with "delete this to use FS") to disable usage of MongoDB and use file system to store chemical entities and sentences.
 In this case skip start mongo docker container command.
 
 
