@@ -1,6 +1,6 @@
 # sarscov2vec
 
-Realize [C Elton et al.](https://arxiv.org/pdf/1903.00415.pdf) pipeline using [Mekni et al.](https://www.mdpi.com/1422-0067/22/14/7714) SARS-CoV-2 viral protease SVM on PubMed Central PMC Open Access articles.
+Realize [Elton et al.](https://arxiv.org/pdf/1903.00415.pdf) pipeline using [Mekni et al.](https://www.mdpi.com/1422-0067/22/14/7714) SARS-CoV-2 viral protease SVM on PubMed Central PMC Open Access articles.
 
 
 ## scheme
@@ -22,7 +22,7 @@ ChemDataExtractor is used to identify Chemical Entities validate using PubChemPy
 
 ## description
 
-2-d PCA is used to plot word2vec results following C Elton et al. pipeline. 
+2-d PCA is used to plot word2vec results following Elton et al. pipeline. 
 Moreover, as different approach, elbow method to select optimal out PCA dimension is followed and incremental K-means is applied.
 
 ## design
