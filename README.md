@@ -99,7 +99,7 @@ PCA 2-d results coloring active compunds against SARS-CoV-2 viral protease.
 | - | - | - | - | - | - | - | - | - | - | - |
 | **covid-19** | ill | psychiatric | hiv-positive | dementia | pandemic | concern | pertain | hemophilia | people | behaviour |
 
-### identified active compounds
+### identified active fragments
 
 <table>
 
