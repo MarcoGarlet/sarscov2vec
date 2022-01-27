@@ -1,7 +1,7 @@
 docker run -d\
     --privileged \
     -w /work\
-    -v $PWD/padel-service/:/work \
+    -v "$PWD/padel-service/":"/work" \
     -it\
     --rm \
     --net irnet\

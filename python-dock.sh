@@ -3,7 +3,7 @@ docker run \
     --rm \
     -w /work\
     --net irnet\
-    -v $PWD:/work \
+    -v "$PWD":/work \
     -it\
     irproj\
     python3.6 $1
