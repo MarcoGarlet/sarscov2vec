@@ -1,5 +1,7 @@
 # sarscov2vec
 
+[![DOI](https://zenodo.org/badge/443329619.svg)](https://zenodo.org/badge/latestdoi/443329619)
+
 Realize [Elton et al.](https://arxiv.org/pdf/1903.00415.pdf) pipeline using [Mekni et al.](https://www.mdpi.com/1422-0067/22/14/7714) SARS-CoV-2 viral protease SVM on PubMed Central PMC Open Access articles.
 
 
