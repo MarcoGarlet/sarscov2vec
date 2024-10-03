@@ -118,6 +118,6 @@ PCA 2-d results coloring active compunds against SARS-CoV-2 viral protease.
      <tr>
     <td valign="top"><img src="img/furan1.png" width="45%"></td>
     <td valign="top"><img src="img/pentane8.png" width="45%"></td>
-    <td valign="top"><img src="img/2-[2-(2-heptoxyethoxy)ethoxy]ethanol4.png" width="45%"></td>
+    <td valign="top"><img src="img/2-%5B2-(2-heptoxyethoxy)ethoxy%5Dethanol4.png" width="45%"></td>
   </tr>
  </table>
